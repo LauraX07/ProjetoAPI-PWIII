@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using ProjetoAPIEnd.Models;
 using ProjetoAPIEnd.Repositorio.Contract;
 
 namespace ProjetoAPIEnd.Controllers
@@ -15,6 +16,22 @@ namespace ProjetoAPIEnd.Controllers
         public IActionResult Index()
         {
             return View( _enderecoRepositorio.ObterTodosEnderecos());
+        }
+
+        [HttpGet]
+        public IActionResult Cadastrar()
+        {
+            return View();
+        }
+        [HttpPost]
+        public IActionResult Cadastrar(Endereco endereco)
+        {
+            if (ModelState.IsValid)
+            {
+                _enderecoRepositorio.Cadastrar(endereco);
+                return RedirectToAction(nameof(Index));
+            }
+            return View();
         }
     }
 }

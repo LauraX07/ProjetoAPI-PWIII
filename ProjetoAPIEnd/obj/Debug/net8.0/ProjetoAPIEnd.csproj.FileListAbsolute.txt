@@ -1,0 +1,10 @@
+C:\Users\layla\OneDrive\Área de Trabalho\ProjetoAPIEnd\ProjetoAPIEnd\obj\Debug\net8.0\ProjetoAPIEnd.csproj.AssemblyReference.cache
+C:\Users\layla\OneDrive\Área de Trabalho\ProjetoAPIEnd\ProjetoAPIEnd\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\layla\OneDrive\Área de Trabalho\ProjetoAPIEnd\ProjetoAPIEnd\obj\Debug\net8.0\ProjetoAPIEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\layla\OneDrive\Área de Trabalho\ProjetoAPIEnd\ProjetoAPIEnd\obj\Debug\net8.0\ProjetoAPIEnd.AssemblyInfoInputs.cache
+C:\Users\layla\OneDrive\Área de Trabalho\ProjetoAPIEnd\ProjetoAPIEnd\obj\Debug\net8.0\ProjetoAPIEnd.AssemblyInfo.cs
+C:\Users\layla\OneDrive\Área de Trabalho\ProjetoAPIEnd\ProjetoAPIEnd\obj\Debug\net8.0\ProjetoAPIEnd.csproj.CoreCompileInputs.cache
+C:\Users\layla\OneDrive\Área de Trabalho\ProjetoAPIEnd\ProjetoAPIEnd\obj\Debug\net8.0\ProjetoAPIEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\layla\OneDrive\Área de Trabalho\ProjetoAPIEnd\ProjetoAPIEnd\obj\Debug\net8.0\ProjetoAPIEnd.RazorAssemblyInfo.cache
+C:\Users\layla\OneDrive\Área de Trabalho\ProjetoAPIEnd\ProjetoAPIEnd\obj\Debug\net8.0\ProjetoAPIEnd.RazorAssemblyInfo.cs
+C:\Users\layla\OneDrive\Área de Trabalho\ProjetoAPIEnd\ProjetoAPIEnd\obj\Debug\net8.0\ProjetoAPIEnd.sourcelink.json

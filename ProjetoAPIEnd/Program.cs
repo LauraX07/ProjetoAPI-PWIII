@@ -1,7 +1,13 @@
+using ProjetoAPIEnd.Repositorio;
+using ProjetoAPIEnd.Repositorio.Contract;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+//Adicionar interface como um serviço
+builder.Services.AddScoped<IEnderecoRepositorio, EnderecoRepositorio>();
 
 var app = builder.Build();
 

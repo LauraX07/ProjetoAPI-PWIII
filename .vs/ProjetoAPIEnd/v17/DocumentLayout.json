@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{E936AC21-B59A-4342-ABD1-7DD7A8F4A5BB}|ProjetoAPIEnd\\ProjetoAPIEnd.csproj|c:\\users\\layla\\onedrive\\\u00E1rea de trabalho\\projetoapiend\\projetoapiend\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E936AC21-B59A-4342-ABD1-7DD7A8F4A5BB}|ProjetoAPIEnd\\ProjetoAPIEnd.csproj|solutionrelative:projetoapiend\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E936AC21-B59A-4342-ABD1-7DD7A8F4A5BB}|ProjetoAPIEnd\\ProjetoAPIEnd.csproj|c:\\users\\layla\\onedrive\\\u00E1rea de trabalho\\projetoapiend\\projetoapiend\\repositorio\\contract\\ienderecorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E936AC21-B59A-4342-ABD1-7DD7A8F4A5BB}|ProjetoAPIEnd\\ProjetoAPIEnd.csproj|solutionrelative:projetoapiend\\repositorio\\contract\\ienderecorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E936AC21-B59A-4342-ABD1-7DD7A8F4A5BB}|ProjetoAPIEnd\\ProjetoAPIEnd.csproj|c:\\users\\layla\\onedrive\\\u00E1rea de trabalho\\projetoapiend\\projetoapiend\\controllers\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E936AC21-B59A-4342-ABD1-7DD7A8F4A5BB}|ProjetoAPIEnd\\ProjetoAPIEnd.csproj|solutionrelative:projetoapiend\\controllers\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E936AC21-B59A-4342-ABD1-7DD7A8F4A5BB}|ProjetoAPIEnd\\ProjetoAPIEnd.csproj|c:\\users\\layla\\onedrive\\\u00E1rea de trabalho\\projetoapiend\\projetoapiend\\repositorio\\enderecorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E936AC21-B59A-4342-ABD1-7DD7A8F4A5BB}|ProjetoAPIEnd\\ProjetoAPIEnd.csproj|solutionrelative:projetoapiend\\repositorio\\enderecorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +26,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnderecoController.cs",
+              "DocumentMoniker": "C:\\Users\\layla\\OneDrive\\\u00C1rea de Trabalho\\ProjetoAPIEnd\\ProjetoAPIEnd\\Controllers\\EnderecoController.cs",
+              "RelativeDocumentMoniker": "ProjetoAPIEnd\\Controllers\\EnderecoController.cs",
+              "ToolTip": "C:\\Users\\layla\\OneDrive\\\u00C1rea de Trabalho\\ProjetoAPIEnd\\ProjetoAPIEnd\\Controllers\\EnderecoController.cs",
+              "RelativeToolTip": "ProjetoAPIEnd\\Controllers\\EnderecoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T20:56:55.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnderecoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\layla\\OneDrive\\\u00C1rea de Trabalho\\ProjetoAPIEnd\\ProjetoAPIEnd\\Repositorio\\EnderecoRepositorio.cs",
+              "RelativeDocumentMoniker": "ProjetoAPIEnd\\Repositorio\\EnderecoRepositorio.cs",
+              "ToolTip": "C:\\Users\\layla\\OneDrive\\\u00C1rea de Trabalho\\ProjetoAPIEnd\\ProjetoAPIEnd\\Repositorio\\EnderecoRepositorio.cs",
+              "RelativeToolTip": "ProjetoAPIEnd\\Repositorio\\EnderecoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T20:19:57.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEnderecoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\layla\\OneDrive\\\u00C1rea de Trabalho\\ProjetoAPIEnd\\ProjetoAPIEnd\\Repositorio\\Contract\\IEnderecoRepositorio.cs",
+              "RelativeDocumentMoniker": "ProjetoAPIEnd\\Repositorio\\Contract\\IEnderecoRepositorio.cs",
+              "ToolTip": "C:\\Users\\layla\\OneDrive\\\u00C1rea de Trabalho\\ProjetoAPIEnd\\ProjetoAPIEnd\\Repositorio\\Contract\\IEnderecoRepositorio.cs",
+              "RelativeToolTip": "ProjetoAPIEnd\\Repositorio\\Contract\\IEnderecoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T20:17:42.498Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +75,7 @@
               "RelativeDocumentMoniker": "ProjetoAPIEnd\\Models\\Endereco.cs",
               "ToolTip": "C:\\Users\\layla\\OneDrive\\\u00C1rea de Trabalho\\ProjetoAPIEnd\\ProjetoAPIEnd\\Models\\Endereco.cs",
               "RelativeToolTip": "ProjetoAPIEnd\\Models\\Endereco.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-30T19:56:11.966Z",
               "EditorCaption": ""

@@ -11,7 +11,7 @@ namespace ProjetoAPIEnd.Repositorio
         private readonly string _conexaoMySQL;
         public EnderecoRepositorio(IConfiguration conf)
         {
-            _conexaoMySQL = conf.GetConnectionString("ConexaoMySql");
+            _conexaoMySQL = conf.GetConnectionString("ConexaoMySQL");
         }
         public void Atualizar(Endereco endereco)
         {
@@ -49,7 +49,7 @@ namespace ProjetoAPIEnd.Repositorio
 
             catch (Exception ex)
             {
-                throw new Exception("Erro na aolicação em cadastro cliente" + ex.Message);
+                throw new Exception("Erro na aplicação em cadastro cliente" + ex.Message);
             }
         }
         
@@ -82,7 +82,7 @@ namespace ProjetoAPIEnd.Repositorio
                     endList.Add(
                         new Endereco
                         {
-                            Id = Convert.ToInt32(dr["ID"]),
+                            Id = Convert.ToInt32(dr["Id"]),
                             CEP = Convert.ToString(dr["CEP"]),
                             Estado = Convert.ToString(dr["Estado"]),
                             Cidade = Convert.ToString(dr["Cidade"]),

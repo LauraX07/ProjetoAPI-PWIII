@@ -1,9 +1,9 @@
 ﻿$(document).ready(function () {
-    $(".cep").mask("00000-000")
+    $(".cep").mask("00.000-000")
 });
 
 $(document).ready(function () {
-    function limpa_formulario-cep() {
+    function limpa_formulario_cep() {
         $("#Estado").val("");
         $("#Cidade").val("");
         $("#Logradouro").val("");
@@ -24,7 +24,7 @@ $(document).ready(function () {
                 $("#Bairro").val("..");
                 $("#Complemento").val("..");
 
-                $.getJSON("https://viacap.com.br/ws/" + cep + "/json/?callback=?", function (dados) {
+                $.getJSON("https://viacep.com.br/ws/" + cep + "/json/?callback=?", function (dados) {
 
                     if (!("erro" in dados)) {
                         $("#Estado").val(dados.uf);

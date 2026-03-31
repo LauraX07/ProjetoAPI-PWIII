@@ -35,7 +35,6 @@ namespace ProjetoAPIEnd.Models
         public string Complemento { get; set; }
 
         [Display(Name = "Número", Description = "Número")]
-        [Required(ErrorMessage = "O Número é obrigatório")]
         public string Numero { get; set; }
     
     }
